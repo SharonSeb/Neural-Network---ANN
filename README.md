@@ -31,3 +31,10 @@ HasCrCard: It is a categorical variable that decides whether the customer has a 
 
 EstimatedSalary: Estimated salary
 
+isActiveMember: It is a categorical variable that decides whether the customer is an active member of the bank or not ( Active member in the sense, using bank products regularly, making transactions, etc )
+
+Exited: It is a categorical variable that decides whether the customer left the bank within six months or not. It can take two values
+
+            0=No ( Customer did not leave the bank )
+
+            1=Yes ( Customer left the bank )
